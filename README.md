@@ -1,1 +1,1 @@
-https://github.com/Aleksandra-Lorens/ono-tebe-nado-fd.git
+https://github.com/Aleksandra-Lorens/ono-tebe-nado-fd

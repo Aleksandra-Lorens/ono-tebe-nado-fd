@@ -69,10 +69,10 @@ header {
 .cover__title {
     display: block;
     font-size: 100px;
-    line-height: 115%;
+    line-height: 115px;
     font-weight: bold;
     text-transform: uppercase;
-    color: #fff;
+    color: #fff; 
     position: relative;
     z-index: 1;
 }
@@ -101,7 +101,7 @@ header {
 }
 
 .letter-spacing-extended {
-    letter-spacing: .3em;
+    letter-spacing: 30px;
 }
 
 .no-letter-spacing {
@@ -262,7 +262,7 @@ header {
 .footer {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
-    padding-bottom: 82px;
+    padding: 0 50px 82px 50px;
 }
 
 .footer .address {

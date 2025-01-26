@@ -77,6 +77,14 @@ header {
     z-index: 1;
 }
 
+.cover__title span {
+    margin-bottom: 20px;
+}
+
+.cover__title span:last-of-type {
+    margin-bottom: 0;
+}
+
 .aligned-text {
     display: block;
     text-align: left;

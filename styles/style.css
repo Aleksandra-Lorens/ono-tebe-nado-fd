@@ -297,14 +297,14 @@ header {
     height: 100%;
 }
 
-.word-spacing_9 {
+.word-spacing_middle {
     word-spacing: 0.9em;
 }
 
-.word-spacing_8 {
+.word-spacing_small {
     word-spacing: 0.8em;
 }
 
-.word-spacing_11 {
+.word-spacing_large {
     word-spacing: 1.1em;
 }

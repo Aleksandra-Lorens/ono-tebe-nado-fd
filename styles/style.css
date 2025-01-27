@@ -86,11 +86,13 @@ header {
 }
 
 .aligned-text_center {
+    padding-left: 30px;
     display: block;
     text-align: center;
 }
 
 .aligned-text_right {
+    margin-right: -30px;
     display: block;
     text-align: right;
 }
@@ -279,7 +281,6 @@ header {
 .footer__social-list {
     display: flex;
     justify-content: end;
-    align-items: center;
     flex-wrap: wrap;
     gap: 48px;
     list-style: none;
@@ -294,4 +295,16 @@ header {
 .footer__social-icon {
     width: 100%;
     height: 100%;
+}
+
+.word-spacing_9 {
+    word-spacing: 0.9em;
+}
+
+.word-spacing_8 {
+    word-spacing: 0.8em;
+}
+
+.word-spacing_11 {
+    word-spacing: 1.1em;
 }
